@@ -31,7 +31,9 @@
     <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
-        <?php include "menu.php"; ?>
+        <?php 
+        $is_active = "contact";
+        include "menu.php"; ?>
         <!-- bradcam_area_start -->
         <div class="bradcam_area breadcam_bg overlay2">
                 <h3>contact us</h3>
