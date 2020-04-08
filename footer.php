@@ -11,9 +11,7 @@
                                 </a>
                             </div>
                             <p>
-                                Firmament morning sixth subdue darkness creeping gathered divide our let god moving.
-                                Moving in fourth air night bring upon it beast let you dominion likeness open place day
-                                great.
+                                Potacode adalah platform pembelajaran yang ditujukan untuk membagikan bahasan - bahasan seputar dunia IT khususnya pada bidang pemrograman yang dipelajari oleh mayoritas masyarakat Indonesia yang dimuat dalam bentuk tutorial - tutorial menarik.
                             </p>
                             <div class="socail_links">
                                 <ul>
@@ -77,9 +75,11 @@
                                 Address
                             </h3>
                             <p>
-                                200, D-block, Green lane USA <br>
-                                +10 367 467 8934 <br>
-                                edumark@contact.com
+                                Jl Babakan Cibeureum No 92 B Rt 04/01 Kel. Campaka Kec. Andir, Kota Bandung
+                                <br>
+                                +62-822-1754-4947
+                                <br>
+                                potacode.studio@gmail.com
                             </p>
                         </div>
                     </div>
