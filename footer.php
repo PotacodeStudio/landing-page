@@ -35,6 +35,11 @@
                                             <i class="fa fa-linkedin"></i>
                                         </a>
                                     </li>
+                                   <li>
+                                        <a href="whatsapp://send?text=Hello&phone=+6282217544947">
+                                            <i class="fa fa-whatsapp"></i>
+                                        </a>
+                                    </li>                                    
                                 </ul>
                             </div>
 
@@ -46,11 +51,12 @@
                                 Courses
                             </h3>
                             <ul>
-                                <li><a href="#">Wordpress</a></li>
+                                <li><a href="http://potacode.com/blog">Blog</a></li>                            
+                                <!-- <li><a href="#">Wordpress</a></li>
                                 <li><a href="#"> Photoshop</a></li>
                                 <li><a href="#">Illustrator</a></li>
                                 <li><a href="#">Adobe XD</a></li>
-                                <li><a href="#">UI/UX</a></li>
+                                <li><a href="#">UI/UX</a></li> -->
                             </ul>
 
                         </div>
@@ -61,11 +67,12 @@
                                 Resourches
                             </h3>
                             <ul>
-                                <li><a href="#">Free Adobe XD</a></li>
+                                <li><a href="http://potacode.com/blog">Blog</a></li>
+                                <!-- <li><a href="#">Free Adobe XD</a></li>
                                 <li><a href="#">Tutorials</a></li>
                                 <li><a href="#">About</a></li>
                                 <li><a href="#"> About</a></li>
-                                <li><a href="#"> Contact</a></li>
+                                <li><a href="#"> Contact</a></li> -->
                             </ul>
                         </div>
                     </div>
