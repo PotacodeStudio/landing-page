@@ -18,23 +18,23 @@
                             <div class="socail_links">
                                 <ul>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/pg/ayokode/">
                                             <i class="ti-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/potacode">
                                             <i class="ti-twitter-alt"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/potacode.studio/">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <i class="fa fa-youtube-play"></i>
+                                        <a href="https://www.linkedin.com/company/potacode/">
+                                            <i class="fa fa-linkedin"></i>
                                         </a>
                                     </li>
                                 </ul>
