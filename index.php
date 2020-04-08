@@ -70,7 +70,7 @@
     <!-- slider_area_end -->
 
     <!-- about_area_start -->
-    <div class="about_area">
+    <!-- <div class="about_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 col-lg-6">
@@ -80,7 +80,7 @@
                         <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our let god
                             moving. Moving in fourth air night bring upon you’re it beast let you dominion likeness open
                             place day great wherein heaven sixth lesser subdue fowl </p>
-                        <!-- <a href="#" class="boxed_btn">Enroll a Course</a> -->
+                        <a href="#" class="boxed_btn">Enroll a Course</a>
                     </div>
                 </div>
                 <div class="col-xl-6 offset-xl-1 col-lg-6">
@@ -115,7 +115,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- about_area_end -->
 
     <!-- popular_courses_start -->
