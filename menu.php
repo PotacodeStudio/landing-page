@@ -45,9 +45,9 @@
                                     <span>log in</span>
                                 </a> -->
                                 <div class="live_chat_btn">
-                                    <a class="boxed_btn_orange" href="#">
+                                    <a class="boxed_btn_orange" href="tel:+6282217544947">
                                         <i class="fa fa-phone"></i>
-                                        <span><a href="tel:+6289501289411">+6289501289411</a></span>
+                                        <span>+62-822-1754-4947</span>
                                     </a>
                                 </div>
                             </div>
