@@ -303,7 +303,7 @@
     <!-- subscribe_newsletter_end -->
 
     <!-- our_latest_blog_start -->
-    <div class="our_latest_blog">
+    <!-- <div class="our_latest_blog">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -369,7 +369,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- our_latest_blog_end -->
     <?php include "footer.php"; ?>
     <!-- form itself end-->
