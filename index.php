@@ -1702,9 +1702,9 @@
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-100">
                         <h3>Our Course Speciality</h3>
-                        <p>Your domain control panel is designed for ease-of-use and <br>
+                        <!-- <p>Your domain control panel is designed for ease-of-use and <br>
                             allows for all aspects of your domains.
-                        </p>
+                        </p> -->
                     </div>
                 </div>
             </div>
@@ -1714,10 +1714,9 @@
                         <div class="icon">
                             <i class="flaticon-art-and-design"></i>
                         </div>
-                        <h3>Premium Quality</h3>
+                        <h3>Belajar dimana saja dan kapan saja</h3>
                         <p>
-                            Your domain control panel is designed for ease-of-use <br> and <br>
-                            allows for all aspects of
+                            Belajar dimana saja dan kapan saja melalui postcode sekarang juga, kamu nggak perlu tools yang sulit untuk memulai investasi masa depanmu
                         </p>
                     </div>
                 </div>
@@ -1726,10 +1725,9 @@
                         <div class="icon blue">
                             <i class="flaticon-business-and-finance"></i>
                         </div>
-                        <h3>Premium Quality</h3>
+                        <h3>Akses gratis untuk siapa saja</h3>
                         <p>
-                            Your domain control panel is designed for ease-of-use <br> and <br>
-                            allows for all aspects of
+                            Dapatkan akses gratis ke semua course yang ada di potacode untuk waktu yang terbatas
                         </p>
                     </div>
                 </div>
@@ -1738,10 +1736,9 @@
                         <div class="icon">
                             <i class="flaticon-premium"></i>
                         </div>
-                        <h3>Premium Quality</h3>
+                        <h3>Kembangkan skill dan karir bersama kami</h3>
                         <p>
-                            Your domain control panel is designed for ease-of-use <br> and <br>
-                            allows for all aspects of
+                            Investasikan waktu kamu untuk berkembang menjadi lebih baik lagi dengan dibantu mentor-mentor profesional di berbagai bidang
                         </p>
                     </div>
                 </div>
@@ -1750,10 +1747,9 @@
                         <div class="icon gradient">
                             <i class="flaticon-crown"></i>
                         </div>
-                        <h3>Premium Quality</h3>
+                        <h3>Sertifikasi skill gratis</h3>
                         <p>
-                            Your domain control panel is designed for ease-of-use <br> and <br>
-                            allows for all aspects of
+                            Jika berhasil lulus kamu juga pasti akan mendapatkan sertifikat yang akan mempercantik portofolio kamu, ayo gabung sekarang juga!
                         </p>
                     </div>
                 </div>
