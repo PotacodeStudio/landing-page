@@ -1,4 +1,5 @@
-include "fb_messenger_plugin.php";
+<?php include "fb_messenger_plugin.php" ?>
+
  <!-- header-start -->
     <header>
         <div class="header-area ">
