@@ -1,31 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Edumark</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    <!-- Place favicon.ico in the root directory -->
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/gijgo.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/slicknav.css">
-    <link rel="stylesheet" href="css/style.css">
-    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
-</head>
+<?php include "header.php" ?>
 
 <body>
     <!--[if lte IE 9]>
@@ -122,15 +98,15 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>Address :</h3>
+                                <h3>Potacode Studio</h3>
                                 <p>Jl Babakan Cibeureum No 92 B Rt 04/01 Kel. Campaka Kec. Andir, Kota Bandung</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>Telephone :</h3>
-                                <p>+62-822-1754-4947</p>
+                                <h3>+62-822-1754-4947</h3>
+                                <p>Call us anytime</p>
                             </div>
                         </div>
                         <div class="media contact-info">
