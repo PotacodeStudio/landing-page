@@ -70,8 +70,8 @@
                             ];
                             var map = new google.maps.Map(document.getElementById('map'), {
                                 center: {
-                                    lat: -31.197,
-                                    lng: 150.744
+                                    lat: -6.9036434,
+                                    lng: 107.5703141
                                 },
                                 zoom: 9,
                                 styles: grayStyles,
@@ -122,21 +122,21 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>Buttonwood, California.</h3>
-                                <p>Rosemead, CA 91770</p>
+                                <h3>Address :</h3>
+                                <p>Jl Babakan Cibeureum No 92 B Rt 04/01 Kel. Campaka Kec. Andir, Kota Bandung</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>+1 253 565 2365</h3>
-                                <p>Mon to Fri 9am to 6pm</p>
+                                <h3>Telephone :</h3>
+                                <p>+62-822-1754-4947</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>support@colorlib.com</h3>
+                                <h3>potacode.studio@gmail.com</h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>
