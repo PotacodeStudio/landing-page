@@ -91,7 +91,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="single_team">
                         <div class="thumb">
-                            <img src="img/team/1.png" alt="">
+                            <img src="https://media-exp1.licdn.com/dms/image/C5103AQGcTMOpqrm_qw/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=kzN0UHHDijmRtV5MhwSrc1DLlJPml3umPUOxwSUYflQ" alt="">
                             <div class="social_link">
                                 <a href="mailto:franslevi008@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
                                 <a href="https://www.linkedin.com/in/levi008/"><i class="fa fa-linkedin"></i></a>                                
@@ -108,7 +108,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="single_team">
                         <div class="thumb">
-                            <img src="img/team/2.png" alt="">
+                            <img src="https://media-exp1.licdn.com/dms/image/C5103AQHUlJhy4PrJ1w/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=GS9o_sD6CnJGd6zwjEUf1KOCV3OXnRgd4hjykllmfZY" alt="">
                             <div class="social_link">
                                 <a href="mailto:tresnadery@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
                                 <a href="https://www.linkedin.com/in/dery-tresna-pratama-3a9574126/"><i class="fa fa-linkedin"></i></a>
@@ -124,7 +124,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="single_team">
                         <div class="thumb">
-                            <img src="img/team/3.png" alt="">
+                            <img src="https://media-exp1.licdn.com/dms/image/C5103AQEtG8UAwfiGpA/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=UKxjFkVgswz1b7ZIM67_-wBSrhpftVlaEhy1Iax6v0Y" alt="">
                             <div class="social_link">
                                 <a href="https://www.facebook.com/RahmatThea5"><i class="fa fa-facebook"></i></a>
                                 <a href="https://twitter.com/mrahmatullah05"><i class="fa fa-twitter"></i></a>
@@ -143,7 +143,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="single_team">
                         <div class="thumb">
-                            <img src="img/team/4.png" alt="">
+                            <img src="https://media-exp1.licdn.com/dms/image/C5103AQG6KblkUoYAkg/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=pSZ2xR2g-gwkR_8DsT8w51EHiGZdR6CyAt1W0ofvRjc" alt="">
                             <div class="social_link">
                                 <a href="mailto:pripuni824@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
                                 <a href="https://www.linkedin.com/in/prifani-hafidzah/"><i class="fa fa-linkedin"></i></a>
