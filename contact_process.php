@@ -1,6 +1,10 @@
 <?php
 
-    $to = "spn8@spondonit.com";
+    $reciever_1 = "potacode.studio@gmail.com";
+    $reciever_2 = "tresnadery@gmail.com";
+    $reciever_3 = "rahmatthea5@gmail.com";
+    $reciever_4 = "franslevi008@gmail.com";
+    $reciever_5 = "pripuni824@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
@@ -32,6 +36,10 @@
 	$body .= "</tbody></table>";
 	$body .= "</body></html>";
 
-    $send = mail($to, $subject, $body, $headers);
+    mail($reciever_1, $subject, $body, $headers);
+    mail($reciever_2, $subject, $body, $headers);
+    mail($reciever_3, $subject, $body, $headers);
+    mail($reciever_4, $subject, $body, $headers);
+    mail($reciever_5, $subject, $body, $headers);
 
 ?>
