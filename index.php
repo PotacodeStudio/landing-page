@@ -36,20 +36,21 @@
     <!-- slider_area_end -->
 
     <!-- about_area_start -->
-    <!-- <div class="about_area">
+    <div class="about_area">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5 col-lg-6">
+                <div class="col-xl-12 col-lg-12">
                     <div class="single_about_info">
-                        <h3>Over 7000 Tutorials <br>
-                            from 20 Courses</h3>
-                        <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our let god
-                            moving. Moving in fourth air night bring upon you’re it beast let you dominion likeness open
-                            place day great wherein heaven sixth lesser subdue fowl </p>
-                        <a href="#" class="boxed_btn">Enroll a Course</a>
+                        <h3>Belajar Koding itu mudah dengan potacode.</h3>
+                        <p>Potacode adalah platform pembelajaran yang ditujukan untuk membagikan bahasan - bahasan seputar dunia IT khususnya pada bidang pemrograman yang dipelajari oleh mayoritas masyarakat Indonesia yang dimuat dalam bentuk tutorial - tutorial menarik.</p>
+
+                        <p>Diharapkan dengan platform ini kami selaku team potacode dapat membantu para audience/visitor blog atau siapapun yang ingin belajar mengenai bidang pemrograman melalui artikel, ebook, dan video tutorial yang disediakan oleh kami dan menjadikan platform ini sebagai rujukan belajar tetap.</p>
+
+                        <p>Media edukasi untuk berkembang bersama. Mari bangun masa depan!</p>
+                        <a href="https://potacode.com/blog" class="boxed_btn">Mulai Belajar</a>
                     </div>
                 </div>
-                <div class="col-xl-6 offset-xl-1 col-lg-6">
+<!--                 <div class="col-xl-6 offset-xl-1 col-lg-6">
                     <div class="about_tutorials">
                         <div class="courses">
                             <div class="inner_courses">
@@ -78,10 +79,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- about_area_end -->
     <!-- our_team_member_start -->
     <div class="our_team_member">
@@ -92,14 +93,15 @@
                         <div class="thumb">
                             <img src="img/team/1.png" alt="">
                             <div class="social_link">
-                                <a href="#"><i class="fa fa-envelope"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="mailto:franslevi008@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
+                                <a href="https://www.linkedin.com/in/levi008/"><i class="fa fa-linkedin"></i></a>                                
+                                <a href="https://www.instagram.com/be_darmawan/"><i class="fa fa-instagram"></i></a>
+                                <a href="tel:+6282217544947"><i class="fa fa-phone"></i></a>
                             </div>
                         </div>
                         <div class="master_name text-center">
-                            <h3>Macau Wilium</h3>
-                            <p>Massage Master</p>
+                            <h3>B. Erfransyah Levi Darmawan</h3>
+                            <p>Senior Android Developer</p>
                         </div>
                     </div>
                 </div>
@@ -108,14 +110,14 @@
                         <div class="thumb">
                             <img src="img/team/2.png" alt="">
                             <div class="social_link">
-                                <a href="#"><i class="fa fa-envelope"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="mailto:tresnadery@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
+                                <a href="https://www.linkedin.com/in/dery-tresna-pratama-3a9574126/"><i class="fa fa-linkedin"></i></a>
+                                <a href="tel:+6289523776461"><i class="fa fa-phone"></i></a>
                             </div>
                         </div>
                         <div class="master_name text-center">
-                            <h3>Dan Jacky</h3>
-                            <p>Mens Cut</p>
+                            <h3>Dery Tresna Pratama</h3>
+                            <p>Senior Backend Engineer</p>
                         </div>
                     </div>
                 </div>
@@ -124,14 +126,17 @@
                         <div class="thumb">
                             <img src="img/team/3.png" alt="">
                             <div class="social_link">
-                                <a href="#"><i class="fa fa-envelope"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="https://www.facebook.com/RahmatThea5"><i class="fa fa-facebook"></i></a>
+                                <a href="https://twitter.com/mrahmatullah05"><i class="fa fa-twitter"></i></a>
+                                <a href="mailto:someone@example.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
+                                <a href="https://www.linkedin.com/in/rahmatullah5/"><i class="fa fa-linkedin"></i></a>
+                                <a href="https://www.instagram.com/rahmatullah5/"><i class="fa fa-instagram"></i></a>
+                                <a href="tel:+6289501289411"><i class="fa fa-phone"></i></a>
                             </div>
                         </div>
                         <div class="master_name text-center">
-                            <h3>Luka Luka</h3>
-                            <p>Mens Cut</p>
+                            <h3>Muhammad Rahmatullah</h3>
+                            <p>Software Engineer</p>
                         </div>
                     </div>
                 </div>
@@ -140,14 +145,14 @@
                         <div class="thumb">
                             <img src="img/team/4.png" alt="">
                             <div class="social_link">
-                                <a href="#"><i class="fa fa-envelope"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="mailto:pripuni824@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
+                                <a href="https://www.linkedin.com/in/prifani-hafidzah/"><i class="fa fa-linkedin"></i></a>
+                                <a href="tel:+6285951422777"><i class="fa fa-phone"></i></a>
                             </div>
                         </div>
                         <div class="master_name text-center">
-                            <h3>Rona Dana</h3>
-                            <p>Ladies Cut</p>
+                            <h3>Prifani Hafidzah Fadillah</h3>
+                            <p>Senior UI/UX Designer</p>
                         </div>
                     </div>
                 </div>
