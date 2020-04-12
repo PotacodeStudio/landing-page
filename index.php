@@ -88,6 +88,13 @@
     <div class="our_team_member">
         <div class="container">
             <div class="row">
+                <div class="col-xl-12">
+                    <div class="section_title text-center mb-100">
+                        <h3>Our Mentors</h3>
+                    </div>
+                </div>
+            </div>            
+            <div class="row">
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="single_team">
                         <div class="thumb">
