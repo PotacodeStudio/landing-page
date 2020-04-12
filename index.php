@@ -169,7 +169,7 @@
     <!-- our_team_member_end -->
 
     <!-- testimonial_area_start -->
-    <div class="testimonial_area testimonial_bg_1 overlay">
+<!--     <div class="testimonial_area testimonial_bg_1 overlay">
         <div class="testmonial_active owl-carousel">
             <div class="single_testmoial">
                 <div class="container">
@@ -214,7 +214,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- testimonial_area_end -->
     <!-- popular_courses_start -->
     <!-- <div class="popular_courses">
