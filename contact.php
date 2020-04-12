@@ -112,7 +112,7 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>potacode.studio@gmail.com</h3>
+                                <a href="mailto:potacode.studio@gmail.com?Subject=Hello" target="_top"><h3>potacode.studio@gmail.com</h3></a>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>
