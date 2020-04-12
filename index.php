@@ -128,7 +128,7 @@
                             <div class="social_link">
                                 <a href="https://www.facebook.com/RahmatThea5"><i class="fa fa-facebook"></i></a>
                                 <a href="https://twitter.com/mrahmatullah05"><i class="fa fa-twitter"></i></a>
-                                <a href="mailto:someone@example.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
+                                <a href="mailto:rahmatthea5@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope"></i></a>
                                 <a href="https://www.linkedin.com/in/rahmatullah5/"><i class="fa fa-linkedin"></i></a>
                                 <a href="https://www.instagram.com/rahmatullah5/"><i class="fa fa-instagram"></i></a>
                                 <a href="tel:+6289501289411"><i class="fa fa-phone"></i></a>
