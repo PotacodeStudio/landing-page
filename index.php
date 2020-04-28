@@ -1857,7 +1857,7 @@
     <!-- our_courses_end -->
 
     <!-- subscribe_newsletter_Start -->
-    <div class="subscribe_newsletter">
+<!--     <div class="subscribe_newsletter">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
@@ -1877,7 +1877,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- subscribe_newsletter_end -->
 
     <!-- our_latest_blog_start -->
