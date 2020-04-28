@@ -19,7 +19,7 @@
                                     <ul id="navigation">
                                         <li><a <?php echo $is_active == 'home' ? 'class="active"' : ''; ?> href="index.php">home</a></li>
                                         <li><a href="https://potacode.com/blog">Blog</a></li>
-                                        <li><a <?php echo $is_active == 'contact' ? 'class="active"' : ''; ?> href="contact.php">Contact</a></li>
+                                        <!-- <li><a <?php echo $is_active == 'contact' ? 'class="active"' : ''; ?> href="contact.php">Contact</a></li> -->
                                     </ul>
                                 </nav>
                             </div>
