@@ -1,5 +1,4 @@
 <?php
-
     $reciever_1 = "potacode.studio@gmail.com";
     $reciever_2 = "tresnadery@gmail.com";
     $reciever_3 = "rahmatthea5@gmail.com";
@@ -36,10 +35,35 @@
 	$body .= "</tbody></table>";
 	$body .= "</body></html>";
 
-    mail($reciever_1, $subject, $body, $headers);
-    mail($reciever_2, $subject, $body, $headers);
-    mail($reciever_3, $subject, $body, $headers);
-    mail($reciever_4, $subject, $body, $headers);
-    mail($reciever_5, $subject, $body, $headers);
+    $status_1 = mail($reciever_1, $subject, $body, $headers);
+    if (!$status_1) {
+        $errorMessage = error_get_last()['message'];
+        return $errorMessage
+    }
+    
+    $status_2 = mail($reciever_2, $subject, $body, $headers);
+    if (!$status_2) {
+        $errorMessage = error_get_last()['message'];
+        return $errorMessage
+    }
+    
+    $status_3 = mail($reciever_3, $subject, $body, $headers);
+    if (!$status_3) {
+        $errorMessage = error_get_last()['message'];
+        return $errorMessage
+    }
+    
+    $status_4 = mail($reciever_4, $subject, $body, $headers);    
+    if (!$status_4) {
+        $errorMessage = error_get_last()['message'];
+        return $errorMessage
+    }
+    
+    $status_5 = mail($reciever_5, $subject, $body, $headers);
+    if (!$status_5) {
+        $errorMessage = error_get_last()['message'];
+        return $errorMessage
+    }                
+    ?>
 
 ?>
