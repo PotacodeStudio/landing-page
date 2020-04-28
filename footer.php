@@ -39,7 +39,17 @@
                                         <a href="whatsapp://send?text=Hello&phone=+6282217544947">
                                             <i class="fa fa-whatsapp"></i>
                                         </a>
-                                    </li>                                    
+                                    </li> 
+                                   <li>
+                                        <a href="tel:+6282217544947">
+                                            <i class="fa fa-phone"></i>
+                                        </a>
+                                    </li>
+                                   <li>
+                                        <a href="mailto: potacode.studio@gmail.com">
+                                            <i class="fa fa-envelope"></i>
+                                        </a>
+                                    </li>                                                                                                              
                                 </ul>
                             </div>
 
@@ -84,9 +94,9 @@
                             <p>
                                 Jl Babakan Cibeureum No 92 B Rt 04/01 Kel. Campaka Kec. Andir, Kota Bandung
                                 <br>
-                                +62-822-1754-4947
+                                <a style="color:black; text-decoration:none" href="tel:+6282217544947">+62-822-1754-4947</a>
                                 <br>
-                                potacode.studio@gmail.com
+                                <a style="color:black; text-decoration:none" href = "mailto:potacode.studio@gmail.com">potacode.studio@gmail.com</a>
                             </p>
                         </div>
                     </div>
