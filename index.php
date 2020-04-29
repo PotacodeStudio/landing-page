@@ -109,6 +109,7 @@
                         <div class="master_name text-center">
                             <h3>B. Erfransyah Levi Darmawan</h3>
                             <p>Senior Android Developer</p>
+                            <p>POLYTRON (HIT)</p>
                         </div>
                     </div>
                 </div>
@@ -125,6 +126,7 @@
                         <div class="master_name text-center">
                             <h3>Dery Tresna Pratama</h3>
                             <p>Senior Backend Engineer</p>
+                            <p>Clapping Ape</p>
                         </div>
                     </div>
                 </div>
@@ -144,6 +146,7 @@
                         <div class="master_name text-center">
                             <h3>Muhammad Rahmatullah</h3>
                             <p>Software Engineer</p>
+                            <p>Crowdonomic Media Pte Ltd</p>
                         </div>
                     </div>
                 </div>
@@ -159,7 +162,8 @@
                         </div>
                         <div class="master_name text-center">
                             <h3>Prifani Hafidzah Fadillah</h3>
-                            <p>Senior UI/UX Designer</p>
+                            <p>UI/UX Designer</p>
+                            <p>Radya Labs Teknologi</p>
                         </div>
                     </div>
                 </div>
