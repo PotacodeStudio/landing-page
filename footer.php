@@ -94,9 +94,9 @@
                             <p>
                                 Jl Babakan Cibeureum No 92 B Rt 04/01 Kel. Campaka Kec. Andir, Kota Bandung
                                 <br>
-                                <a style="text-decoration:none" href="tel:+6282217544947">+62-822-1754-4947</a>
+                                <a style="text-decoration:none;color:#C7C7C7" href="tel:+6282217544947">+62-822-1754-4947</a>
                                 <br>
-                                <a style="text-decoration:none" href = "mailto:potacode.studio@gmail.com">potacode.studio@gmail.com</a>
+                                <a style="text-decoration:none;color:#C7C7C7" href = "mailto:potacode.studio@gmail.com">potacode.studio@gmail.com</a>
                             </p>
                         </div>
                     </div>
