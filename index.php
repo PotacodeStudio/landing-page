@@ -18,7 +18,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-6 col-md-6">
                         <div class="illastrator_png">
-                            <img src="img/banner/edu_ilastration.png" alt="">
+                            <img src="img/banner/edu_illustration.png" alt="">
                         </div>
                     </div>
                     <div class="col-xl-6 col-md-6">
