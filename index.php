@@ -25,7 +25,7 @@
                         <div class="slider_info">
                             <h3>Learn your <br>
                                 Favorite Course <br>
-                                From Online</h3>
+                                For Free</h3>
                             <!-- <a href="#" class="boxed_btn">Browse Our Courses</a> -->
                         </div>
                     </div>
